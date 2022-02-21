@@ -5,7 +5,7 @@
 </a>
 
 <strong><em> Full Stack Developer-Mobile Developer </em></strong><br>
-Hi, i'm Myktybek Omurbekov, a passionate self-taught full stack web developer and a mobile developer from Kyrgyzstan bu nowadays I live in Turkey. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm Myktybek Omurbekov, a passionate self-taught full stack web developer and a mobile developer from Kyrgyzstan but nowadays I live in Turkey. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="320" align="right">
 
 * 💬 ask me about anything, i am happy to help;
