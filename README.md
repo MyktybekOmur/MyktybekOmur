@@ -31,7 +31,7 @@ Hi, i'm Myktybek Omurbekov, a passionate self-taught full stack web developer an
 
 
  <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=MyktybekOmur&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=MyktybekOmur">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyktybekOmur">
 
